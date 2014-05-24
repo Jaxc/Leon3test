@@ -1,0 +1,7 @@
+JDF B
+PROJECT leon3mp
+DESIGN leon3mp Normal
+DEVKIT XC6SLX45-2csg324
+ENTRY EDIF
+MODULE ./synplify/leon3mp.edf
+MODSTYLE leon3mp Normal

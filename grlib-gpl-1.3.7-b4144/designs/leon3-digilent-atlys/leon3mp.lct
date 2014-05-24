@@ -1,0 +1,8 @@
+[Device]
+Family = ;
+PartNumber = XC6SLX45-2csg324;
+Package = ;
+PartType = XC6SLX45;
+Speed = -2;
+Operating_condition = COM;
+Status = Production;
